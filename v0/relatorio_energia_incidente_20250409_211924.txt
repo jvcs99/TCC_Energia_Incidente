@@ -1,0 +1,15 @@
+RELATÓRIO DE ENERGIA INCIDENTE
+==================================================
+Data e hora: 2025-04-09 21:19:24.451468
+Tensão Nominal: 440.0 V
+Frequência: 60.0 Hz
+Tipo de Equipamento: Painel Elétrico
+Corrente de Curto-Circuito: 10.0 A
+Fator da Corrente de Arco: 0.45
+Corrente de Arco Estimada: 4.50 A
+Tempo de Atuação: 0.1 s
+Distância de Trabalho: 600.0 mm
+Fator de Equipamento: 1.0
+ENERGIA INCIDENTE ESTIMADA: 0.00 cal/cm²
+CATEGORIA DE RISCO: Sem exigência de EPI específico (Risco mínimo)
+==================================================
